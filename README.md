@@ -38,5 +38,43 @@ We're constantly innovating and improving the platform to provide the best possi
 ## Check out the Whitepaper
 https://new-genesis.gitbook.io/new-genesis-whitepaper
 
+## Milestones
 
+### Day 1
+1- UTA description
+2- Companion description
+3- Claim companion (using CP) demonstration
+4- Buy companion demonstration
  
+### Day 2
+1- Listen 2 earn system description
+2- Peer 2 peer description
+3- Reward system demonstration
+4- Sell companion demo
+5-Auction companiond eemo
+
+### Day 3
+1- Item description 
+2- Buy item
+3- Sell/auction item
+4- Buy booster
+5-Sell/auction booster
+
+ ### Day 4
+1- Avatar description
+2- Buy avatar
+3- Sell/auction avatar
+
+### Day 5
+3- Reward avatar
+
+### Rest
+- Chat
+- Wallet
+- Profile
+- Profile
+- Try Soundbites
+- Daily tasks
+- Statistics
+- Rankings
+- Evants
