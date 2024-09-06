@@ -41,40 +41,163 @@ https://new-genesis.gitbook.io/new-genesis-whitepaper
 ## Milestones
 
 ### Day 1
-1- UTA description
-2- Companion description
-3- Claim companion (using CP) demonstration
-4- Buy companion demonstration
+- UTA description
+- Companion description
+- Claim companion (using CP) demonstration
+- Buy companion demonstration
  
 ### Day 2
-1- Listen 2 earn system description
-2- Peer 2 peer description
-3- Reward system demonstration
-4- Sell companion demo
-5-Auction companiond eemo
+- Listen 2 earn system description
+- Companion reward system demonstration
 
 ### Day 3
-1- Item description 
-2- Buy item
-3- Sell/auction item
-4- Buy booster
-5-Sell/auction booster
+- Item description 
+- Buy item
+- Buy booster
 
  ### Day 4
-1- Avatar description
-2- Buy avatar
-3- Sell/auction avatar
+- Avatar description
+- Buy avatar
 
 ### Day 5
-3- Reward avatar
+- Avatar reward system demonstration
 
-### Rest
+### Day 6
+- Peer 2 peer description
+- Sell companion demo
+- Auction companion demo
+- Sell/auction item
+- Sell/auction booster
+- Sell/auction avatar
+
+### Other features
 - Chat
 - Wallet
-- Profile
 - Profile
 - Try Soundbites
 - Daily tasks
 - Statistics
 - Rankings
 - Evants
+
+## Day 1 
+
+### UTA 
+UTA is a mobile application created by New genesis startup. this application harnesses the power of many technologies; it is (like tik tok) based on short videos called SoundBites, these videos are exclusively either covers for existing songs or originals (always musical content), and they don't last longer than 1 minute. users get rewarded for using the application in cryptocurrency through earning mechanisms, enticing systems and gamified experience
+
+(URL vid)
+
+### companions 
+companions are like a pet in-app but it helps you earn rewards. it's an NFT(ERC 721) that has attributes (level, rarity, earning time...), these attributes control your earnings. companions can be purchased in the marketplace or from other fellow users (peer to peer). companions can level up enhancing their attributes and by consequence the rewards.
+
+(URL vid)
+
+#### Claim companion (using CP)
+You can acquire a free companion by collecting CP points through completing daily tasks in UTA app. 
+
+(URL vid)
+
+#### Buy companion
+You can also purchase your preferred companion from UTA Marketplace.
+
+(URL vid)
+
+## Day 2
+
+### Listen to Earn
+it basically rewards users for using the app. there are 2 keys for accessing rewards:
+Companions: They give rewards on watching SoundBites, liking, sharing, and interacting with them. In other words they reward users who watch SoundBites.
+Avatars: They give rewards for the number of SoundBites created, the number of views and the number of tries. In other words they reward users who create SoundBites.
+
+(URL vid)
+
+### Companion reward system
+A demonstration of claiming rewards via Companion
+
+(URL vid)
+
+## Day 3
+
+### Items and Boosters
+
+#### Items
+NFTs (ERC 1155). they improve permanently the attributes of the comanion that they're equipped to. they can be purchased in the marketplace or from other fellow users.
+#### Boosters 
+same as the items, but they are temporary and get consumed.
+
+(URL vid)
+
+### Buy Item
+A demonstration of buying an item.
+
+(URL vid)
+
+### Buy Booster
+A demonstration of buying a booster
+
+## Day 4
+
+### Avatars
+NFTs (ERC 721). users can purchase avatars to start earning from the SoundBites they add. it's like a verified artist badge. like companions, avatars can level up.
+
+(URL vid)
+
+### Buy Avatar
+A demonstration of buying an avatar
+
+(URL vid)
+
+## Day 5
+
+### Avatar reward system
+A demonstration of claiming rewards via Avatar.
+
+(URL vid)
+
+## Day 6 
+
+### Peer to Peer 
+A parallel marketplace where users can buy, sell or trade any assets in UTA app. P2P market contains 2 main branches: sales branch and auction branch.
+
+(URL vid)
+
+### Sell/Auction Companion
+A demonstration of selling and putting in auction a Companion
+
+(URL vid)
+
+### Sell/Auction Item
+A demonstration of selling and putting in auction a Companion
+
+(URL vid)
+
+### Sell/Auction Booster
+A demonstration of selling and putting in auction a Companion
+
+(URL vid)
+
+### Sell/Auction Avatar 
+A demonstration of selling and putting in auction a Companion
+
+(URL vid)
+
+## Other features
+
+### Chat
+
+### Wallet
+
+### Profile
+
+### Try Soundbites
+
+### Daily tasks
+
+### Statistics
+
+### Rankings
+
+### Evants
+
+
+
