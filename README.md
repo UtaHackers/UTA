@@ -208,5 +208,5 @@ A demonstration of selling and putting in auction a Companion
 
 ### Evants
 
-
+#### PS: the UTA project is fairly complex and passed by many changes and updates throughout the hackathon time. The smart contract architecture, the combination between the off-chain (cloud) and on-chain (web3), the app interfaces and functionnalities were constantly updated to create balance between the web2 and web3. That is why we followed the milestone approach to better get the work done.
 
