@@ -87,6 +87,13 @@ UTA is a mobile application created by New genesis startup. this application har
 
 (URL vid)
 
+### Configure wallet & buy NGT
+THis POC is working with Testnet BNB Network. 
+To buy NGT in this demo, you have to add TestnetBNB Network to your wallet MetaMask. Then add NGT and UTA tokens to MetaMask. After that, you go to PancakeSwap and swap NGT balance.
+Follow this tutorial fo better understanding.
+
+(Link)
+
 ### companions 
 companions are like a pet in-app but it helps you earn rewards. it's an NFT(ERC 721) that has attributes (level, rarity, earning time...), these attributes control your earnings. companions can be purchased in the marketplace or from other fellow users (peer to peer). companions can level up enhancing their attributes and by consequence the rewards.
 
@@ -134,6 +141,8 @@ A demonstration of buying an item.
 
 ### Buy Booster
 A demonstration of buying a booster
+
+(URL vid)
 
 ## Day 4
 
