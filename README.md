@@ -85,19 +85,20 @@ https://new-genesis.gitbook.io/new-genesis-whitepaper
 ### UTA 
 UTA is a mobile application created by New genesis startup. this application harnesses the power of many technologies; it is (like tik tok) based on short videos called SoundBites, these videos are exclusively either covers for existing songs or originals (always musical content), and they don't last longer than 1 minute. users get rewarded for using the application in cryptocurrency through earning mechanisms, enticing systems and gamified experience
 
-(URL vid)
+[(Welcome)](https://youtu.be/LSxUDUi6md0)
 
 ### Configure wallet & buy NGT
 THis POC is working with Testnet BNB Network. 
 To buy NGT in this demo, you have to add TestnetBNB Network to your wallet MetaMask. Then add NGT and UTA tokens to MetaMask. After that, you go to PancakeSwap and swap NGT balance.
 Follow this tutorial fo better understanding.
 
-(Link)
+[(Testnet)](https://docs.google.com/presentation/d/1kTdKSUx2edSVKWOGivuzhL3LEAXv1PemqQN7P67WcvA/edit?usp=sharing)
+[(Add tokens)](https://docs.google.com/presentation/d/1r838AVhXwO2KRTk9fqzkbdR3y5PhyxZSeHi-MQu4iPI/edit?usp=sharing)
 
 ### companions 
 companions are like a pet in-app but it helps you earn rewards. it's an NFT(ERC 721) that has attributes (level, rarity, earning time...), these attributes control your earnings. companions can be purchased in the marketplace or from other fellow users (peer to peer). companions can level up enhancing their attributes and by consequence the rewards.
 
-(URL vid)
+[(Companion)](https://youtu.be/E6SXc8kDldo)
 
 #### Claim companion (using CP)
 You can acquire a free companion by collecting CP points through completing daily tasks in UTA app. 
