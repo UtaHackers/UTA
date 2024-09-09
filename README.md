@@ -94,6 +94,7 @@ Follow this tutorial fo better understanding.
 
 [(Testnet)](https://docs.google.com/presentation/d/1kTdKSUx2edSVKWOGivuzhL3LEAXv1PemqQN7P67WcvA/edit?usp=sharing)
 [(Add tokens)](https://docs.google.com/presentation/d/1r838AVhXwO2KRTk9fqzkbdR3y5PhyxZSeHi-MQu4iPI/edit?usp=sharing)
+[(swap)](https://docs.google.com/presentation/d/1rYYqZwjp2S7p6zjaxFijlblCEiBKTP99TQACLQZC33Q/edit?usp=sharing)
 
 ### companions 
 companions are like a pet in-app but it helps you earn rewards. it's an NFT(ERC 721) that has attributes (level, rarity, earning time...), these attributes control your earnings. companions can be purchased in the marketplace or from other fellow users (peer to peer). companions can level up enhancing their attributes and by consequence the rewards.
