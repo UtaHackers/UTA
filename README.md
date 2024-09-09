@@ -103,7 +103,7 @@ companions are like a pet in-app but it helps you earn rewards. it's an NFT(ERC 
 #### Claim companion (using CP)
 You can acquire a free companion by collecting CP points through completing daily tasks in UTA app. 
 
-(URL vid)
+[(CP)](https://youtu.be/PpF3-8z2bDE)
 
 #### Buy companion
 You can also purchase your preferred companion from UTA Marketplace.
