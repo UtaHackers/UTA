@@ -109,7 +109,7 @@ You can acquire a free companion by collecting CP points through completing dail
 #### Buy companion
 You can also purchase your preferred companion from UTA Marketplace.
 
-(URL vid)
+[(Buy Companion)](https://youtu.be/oN8299VXKpg)
 
 ## Day 2
 
